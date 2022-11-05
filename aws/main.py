@@ -6,6 +6,8 @@ from os import getenv
 
 load_dotenv()
 
+bucket = getenv('BUCKET')
+
 s3_client = boto3.client(
     's3',
     aws_access_key_id = getenv('AWS_USERNAME'),
@@ -20,4 +22,4 @@ def criar_bucket(nome):
         return False
     return True
 
-criar_bucket('jf-bkt-magali')
+criar_bucket(bucket)
