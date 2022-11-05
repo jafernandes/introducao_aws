@@ -6,5 +6,6 @@ Repositório de códigos que contém exemplos para conexão e criação de bucke
 
 ## Facilitadores
 
-* André Sionek *
-* Rhuan Lima *
+* How - [Site](https://howedu.com.br) *
+* André Sionek - [GitHub](https://github.com/andresionek91) *
+* Rhuan Lima - [GitHub](https://github.com/rhuanlima) *
